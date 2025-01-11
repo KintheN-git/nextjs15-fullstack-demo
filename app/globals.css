@@ -200,13 +200,13 @@
 
     .pattern {
         background-image: linear-gradient(
-                to right,
-                transparent 49.5%,
-                rgba(251, 232, 67, 0.2) 49.5%,
-                rgba(251, 232, 67, 0.6) 50.5%,
-                transparent 50.5%
+            to right,
+            transparent 10px,
+            rgba(251, 232, 67, 0.2) 10px,
+            rgba(251, 232, 67, 0.6) 11px,
+            transparent 11px
         );
-        background-size: 5% 100%;
+        background-size: 20px 100%; /* Piksel bazlı genişlik */
         background-position: center;
         background-repeat: repeat-x;
     }
